@@ -1,4 +1,4 @@
-# ZJ-97 Calculator
+# MI-83 Plus
 
 ### Yup, another calculator project to showcase my skills but this one's gonna be super lit because I'm cloning the ol' reliable calculator that got me through all of my Calculus classes: Texas Instrument's TI-83 Calculator
 
@@ -10,6 +10,6 @@ However, immediately, I thought to myself, "*How cool would it be to have a TI-8
 
 So.. that's what I decided to do lol
 
-### Why'd I name it the **ZJ-97**?
+### Why'd I name it the **MI-83**?
 
-Mostly because I want to avoid any potential copyright infringement even though this is for fun and irdk any legal stuff. ZJ97 are my initials and birth year so yeah.
+Mostly because I want to avoid any potential copyright infringement even though this is for fun and irdk any legal stuff. Maryland is where I'm from, so yeah lol
